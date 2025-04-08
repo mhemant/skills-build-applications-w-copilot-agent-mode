@@ -147,3 +147,6 @@ CORS_ALLOW_HEADERS = [
     'authorization',
     'x-csrftoken',
 ]
+
+# Add the codespace Django REST API endpoint suffix
+CODESPACE_API_SUFFIX = "https://organic-space-guide-wrv697j9j4529p9p-8000.app.github.dev"
